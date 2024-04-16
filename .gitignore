@@ -1,0 +1,10 @@
+# doxygen outputs
+docs/html/
+docs/aspx/
+docs/latex/
+
+# configurations
+.vscode/ 
+
+# private files
+*_internal
