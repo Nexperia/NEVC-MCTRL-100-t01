@@ -1,3 +1,13 @@
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nexperia/NEVC-MCTRL-100-t01/main/docs/img/nexperia_logo_white.svg">
+  <img alt="Nexperia Logo" src="https://www.nexperia.com/.resources/nexperia-theme/images/logo.png">
+</picture>
+
+-----------------
+# NEVC-MCTRL-100-t01: Trapezoidal control of brushless DC (BLDC) motors using hall effect sensors firmware for NEVB-MCTRL-100 
+
+![Version](https://img.shields.io/badge/Version-1.0.0-blue) [![License - MIT/X Consortium](https://img.shields.io/badge/License-MIT%2FX%20Consortium-green)](https://github.com/Nexperia/NEVC-MCTRL-100-t01/blob/main/LICENSE)
+
 ## Introduction
 
 This project is focused on the implementation of motor control, specifically
@@ -41,11 +51,14 @@ accompanied with its own license (BSD 2-Clause License). Please read through the
 LICENSE file in the dependency directory for more information. The library has
 also been modified to specifically support the needs of this project.
 
-## Generating Documentation
+## Documentation 
 
-Download and install Doxygen from the official [Doxygen
-website](https://www.doxygen.nl/) or use package managers like apt or brew for
-Linux or macOS.
+The official documentation is hosted on [https://nexperia.github.io/NEVC-MCTRL-100-t01/](https://nexperia.github.io/NEVC-MCTRL-100-t01/).
+
+## Generating Documentation (from source)
+
+Download and install [Doxygen](https://www.doxygen.nl/) (1.9.7 or newer) or use
+package managers like apt or brew for Linux or macOS.
 
 ```
 # For Ubuntu/Debian
@@ -77,7 +90,7 @@ Once the Doxygen is installed, run the following command to generate the
 documentation:
 
 ```
-doxygen Doxyfile
+doxygen ./Doxyfile
 ```
 
 This command will process the source code based on the configurations in the
