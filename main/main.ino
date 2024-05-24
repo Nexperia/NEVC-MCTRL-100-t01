@@ -522,7 +522,7 @@ static void ADCInit(void)
   PORTF |= (1 << PF0); 
 
   _delay_ms(1);
-  SweepLEDsBlocking;
+  SweepLEDsBlocking();
 
   // Start ADC single conversion to measure BREF.
   adc_reading = ADCSingleConversion();
