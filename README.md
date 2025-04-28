@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository is now archived. Do not use this for code for NEVB-MTR1 series motor
+> driver evaluation kits. For the latest version of the code and updates, please
+> visit [https://github.com/Nexperia/NEVB-MTR1-t01](https://github.com/Nexperia/NEVB-MTR1-t01).
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nexperia/NEVC-MCTRL-100-t01/main/docs/img/nexperia_logo_white.svg">
   <img alt="Nexperia Logo" src="https://www.nexperia.com/.resources/nexperia-theme/images/logo.png">
@@ -7,15 +12,6 @@
 # NEVC-MCTRL-100-t01: Trapezoidal control of brushless DC (BLDC) motors using hall effect sensors firmware for NEVB-MCTRL-100 
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue) [![License - MIT/X Consortium](https://img.shields.io/badge/License-MIT%2FX%20Consortium-green)](https://github.com/Nexperia/NEVC-MCTRL-100-t01/blob/main/LICENSE)
-
-## Archive Notice
-
-> [!WARNING]  
-> This repository is now archived. Do not use this for code for NEVB-MTR1 series motor
-> driver evaluation kits. For the latest version of the code and updates, please
-> visit [https://github.com/Nexperia/NEVB-MTR1-t01](https://github.com/Nexperia/NEVB-MTR1-t01).
-
-Place this notice at the top or near the beginning of your README file for clarity.
 
 ## Introduction
 
