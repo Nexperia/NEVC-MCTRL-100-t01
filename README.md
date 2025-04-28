@@ -8,6 +8,15 @@
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue) [![License - MIT/X Consortium](https://img.shields.io/badge/License-MIT%2FX%20Consortium-green)](https://github.com/Nexperia/NEVC-MCTRL-100-t01/blob/main/LICENSE)
 
+## Archive Notice
+
+> [!WARNING]  
+> This repository is now archived. Do not use this for code for NEVB-MTR1 series motor
+> driver evaluation kits. For the latest version of the code and updates, please
+> visit [https://github.com/Nexperia/NEVB-MTR1-t01](https://github.com/Nexperia/NEVB-MTR1-t01).
+
+Place this notice at the top or near the beginning of your README file for clarity.
+
 ## Introduction
 
 This project is focused on the implementation of motor control, specifically
