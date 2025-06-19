@@ -198,7 +198,7 @@
 
    \see TURN_OFF_MODE_BRAKE, TURN_OFF_MODE_COAST
 */
-#define TURN_OFF_MODE TURN_OFF_MODE_BRAKE
+#define TURN_OFF_MODE TURN_OFF_MODE_COAST
 
 /*!
    \brief Current Gain for Current Measurement
