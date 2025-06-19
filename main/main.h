@@ -196,6 +196,8 @@
    \todo Select the turn mode by assigning \ref TURN_OFF_MODE_COAST or \ref
    TURN_OFF_MODE_BRAKE.
 
+   \warning TURN_OFF_MODE_BRAKE has not been implemented properly yet.
+
    \see TURN_OFF_MODE_BRAKE, TURN_OFF_MODE_COAST
 */
 #define TURN_OFF_MODE TURN_OFF_MODE_COAST
